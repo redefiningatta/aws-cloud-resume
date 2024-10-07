@@ -1,0 +1,13 @@
+# Node modules if applicable
+node_modules/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Lambda package
+backend/lambda_function/lambda_function.zip
+
+# Ignore IDE-specific files
+.DS_Store
+.env
